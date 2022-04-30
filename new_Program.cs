@@ -1,6 +1,6 @@
 using static System.Console;
 
-string [] Array = new string [] {"привет","111","кот","солнце","2","сон", "787", "gytrer7", "905", "gh", "880"};
+string [] Array = new string [] {"привет","111","кот","солнце","2"};
 
 int kolich(string [] ar)
 {
